@@ -113,3 +113,5 @@ migrations/
 #keys
 *.crt
 *.key
+
+node_modules/
